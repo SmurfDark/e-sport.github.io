@@ -1,2 +1,2 @@
 # e-sport.github.io
-Meu Primeiro site responsivo feito em Bootstrap.
+Meu Primeiro site responivo feito em Bootstrap.
